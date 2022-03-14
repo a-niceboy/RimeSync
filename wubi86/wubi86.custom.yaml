@@ -1,7 +1,7 @@
 # 此文档是对 输入法 配置
 patch:
   translator:
-    dictionary: wubi86danzijianma
+    dictionary: wubi86jianmaupdate
     #逐键提示
     enable_completion: false
     #关闭用户词典和字频调整

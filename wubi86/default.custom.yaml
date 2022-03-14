@@ -11,7 +11,7 @@ patch:
       - Control+grave
 
   menu:
-    page_size: 3
+    page_size: 4
 
   ascii_composer:
     ood_old_caps_lock: true

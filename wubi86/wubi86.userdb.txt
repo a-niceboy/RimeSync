@@ -4,15 +4,31 @@
 #@/rime_version	1.5.3
 #@/tick	14
 #@/user_id	wubi86
+djya 	百度	c=1 d=1 t=13
+fwm 	规	c=1 d=1 t=4
+gadc 	形码	c=1 d=1 t=11
+gggg 	王	c=1 d=1 t=10
+gip 	还	c=1 d=1 t=8
 hidm 	频	c=1 d=0.995012 t=14
+ipkh 	常	c=1 d=1 t=3
+j 	是	c=1 d=1 t=9
 khyy 	中文	c=1 d=0.951229 t=14
 lwty 	输入	c=2 d=1.93131 t=14
 pb 	字	c=1 d=0.985112 t=14
 qc 	色	c=1 d=0.951229 t=14
 rjfi 	提示	c=1 d=0.980199 t=14
 saaa 	模式	c=1 d=0.960789 t=14
+sglf 	配置	c=1 d=1 t=14
 sgn 	配	c=1 d=0.946485 t=14
 sxx 	楷	c=1 d=0.937067 t=14
+sxxr 	楷	c=1 d=1 t=7
+toyc 	翻译	c=1 d=1 t=12
 uduf 	关闭	c=1 d=0.946485 t=14
-wsg 	体	c=1 d=0.941765 t=14
+wsg 	体	c=2 d=1.90256 t=14
 ymgk 	调整	c=1 d=1 t=14
+encgijg 	还是	c=0 d=0.1 t=9
+encgjgg 	还是王	c=0 d=0.1 t=10
+encipfw 	常规	c=0 d=0.1 t=4
+encjggg 	是王	c=0 d=0.1 t=10
+encpbws 	字体	c=0 d=0.1 t=6
+encsxws 	楷体	c=0 d=0.1 t=2
