@@ -1,0 +1,2 @@
+# RimeSync
+rime配置
