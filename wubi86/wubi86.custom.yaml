@@ -1,0 +1,39 @@
+# 此文档是对 输入法 配置
+patch:
+  translator:
+    dictionary: wubi86danzijianma
+    #逐键提示
+    enable_completion: false
+    #关闭用户词典和字频调整
+    enable_user_dict: false
+    #关闭码表输入法连打
+    enable_sentence: false
+  speller:
+    max_code_length: 4
+    auto_select: true
+    auto_select_unique_candidate: true
+  
+  # 改键
+  key_binder:
+    bindings:
+    - { when: has_menu, accept: semicolon, send: 2 }
+    - { when: has_menu, accept: apostrophe, send: 3 }
+    # 空码时按空格键清空输入码
+    - { when: has_menu, accept: space, send: space} 
+    - { when: composing, accept: space, send: Escape}
+    - { when: always, accept: Control, toggle: noop }
+
+  switches:
+    - name: ascii_mode
+      reset: 0
+      states: [ 中文, 英文 ]
+    - name: ascii_punct
+      states: [ 。，, ．， ]
+    - name: full_shape
+      reset: 0
+      states: [ 半角, 全角 ]
+    - name: extended_charset
+      states: [ 通用, 扩展集 ]
+
+  punctuator:
+    import_preset: symbolsPatch

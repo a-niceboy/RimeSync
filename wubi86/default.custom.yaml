@@ -1,0 +1,21 @@
+# 此文档是对 rime 基础引擎框架配置
+patch:
+  # 模式列表
+  schema_list:
+    - {schema: wubi86}
+
+  #切换模式快捷键
+  switcher:
+    caption: 模式切换
+    hotkeys:
+      - Control+grave
+
+  menu:
+    page_size: 3
+
+  ascii_composer:
+    ood_old_caps_lock: true
+    switch_key:
+      Caps_Lock: noop
+      Shift_L: commit_code
+      Shift_R: inline_ascii

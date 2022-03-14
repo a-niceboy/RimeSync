@@ -1,0 +1,18 @@
+# Rime user dictionary
+#@/db_name	wubi86.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	14
+#@/user_id	wubi86
+hidm 	频	c=1 d=0.995012 t=14
+khyy 	中文	c=1 d=0.951229 t=14
+lwty 	输入	c=2 d=1.93131 t=14
+pb 	字	c=1 d=0.985112 t=14
+qc 	色	c=1 d=0.951229 t=14
+rjfi 	提示	c=1 d=0.980199 t=14
+saaa 	模式	c=1 d=0.960789 t=14
+sgn 	配	c=1 d=0.946485 t=14
+sxx 	楷	c=1 d=0.937067 t=14
+uduf 	关闭	c=1 d=0.946485 t=14
+wsg 	体	c=1 d=0.941765 t=14
+ymgk 	调整	c=1 d=1 t=14
