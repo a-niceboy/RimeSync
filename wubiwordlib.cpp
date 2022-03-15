@@ -10,15 +10,16 @@ vector<string> tagetData;
 map<string, string> wordCodeMap;
 map<string, string> codeWordMap;
 set<string> code;
+int checkWeight = 3000000;
 
-// è·å–å•å­—åº“
+// »ñÈ¡µ¥×Ö¿â
 void HandleAWord(string line) {
   size_t index = line.find_first_of("\t");
   if (index < 4)
     tagetData.push_back(line);
 }
 
-// è·å–å­˜åœ¨ç®€è¿˜æœ‰å…¨ç çš„å­—
+// »ñÈ¡´æÔÚ¼ò»¹ÓĞÈ«ÂëµÄ×Ö
 void HandleAWordHaveFull(string line) {
   if (line.length() < 2)
     return;
@@ -27,14 +28,14 @@ void HandleAWordHaveFull(string line) {
   string temp = line.substr(index + 1, line.length());
   size_t index2 = temp.find_first_of("\t");
   string key = line.substr(index, index2 + 1);
-  
+
   if (wordCodeMap.find(word) == wordCodeMap.end()) {
     wordCodeMap.insert(pair<string, string>(word, key));
     tagetData.push_back(line);
     //cout << word << " 1 " << key << endl;
   }
   else {
-    
+
     //cout << word << " 2 " << key << endl;
   }
 }
@@ -43,7 +44,7 @@ bool b = false;
 string lastKey = "";
 vector<string> lastlineList;
 string lastLine;
-// åˆ é™¤é‡ç 
+// É¾³ıÖØÂë
 int GetWeight(string line)
 {
   size_t index = line.find_first_of("\t");
@@ -103,7 +104,7 @@ void HandleACodeHaveWords(string line) {
   string temp = line.substr(index + 1, line.length());
   size_t index2 = temp.find_first_of("\t");
   string key = line.substr(index + 1, index2);
-  
+
   string temp2 = temp.substr(index2 + 1, line.length());
   size_t index3 = temp2.find_first_of("\t");
   string weightStr = "";
@@ -113,7 +114,7 @@ void HandleACodeHaveWords(string line) {
     weightStr = temp2;
 
   int weight = atoi(weightStr.c_str());
-  //// å¡«åŠ 
+  //// Ìî¼Ó
   if (currentKey != key) {
     if (lastlineList.size() > 0) {
       tagetData.push_back(GetLine());
@@ -123,13 +124,37 @@ void HandleACodeHaveWords(string line) {
       //  tagetData.push_back(lines[i]);
       //}
     }
-      
+
     lastlineList.clear();
     lastlineList.push_back(line);
     currentKey = key;
   }
   else {
     lastlineList.push_back(line);
+  }
+}
+
+void HandleBigWeightWords(string line) {
+  if (line.length() < 2)
+    return;
+  size_t index = line.find_first_of("\t");
+  string word = line.substr(0, index);
+  string temp = line.substr(index + 1, line.length());
+  size_t index2 = temp.find_first_of("\t");
+  string key = line.substr(index + 1, index2);
+
+  string temp2 = temp.substr(index2 + 1, line.length());
+  size_t index3 = temp2.find_first_of("\t");
+  string weightStr = "";
+  if (index3 != string::npos)
+    weightStr = temp2.substr(0, index3);
+  else
+    weightStr = temp2;
+
+  int weight = atoi(weightStr.c_str());
+  if (weight == 0 || weight > checkWeight || key.length() < 3)
+  {
+    tagetData.push_back(line);
   }
 }
 
@@ -156,7 +181,8 @@ int main()
     else {
       //HandleAWord(lineData);
       //HandleAWordHaveFull(lineData);
-      HandleACodeHaveWords(lineData);
+      //HandleACodeHaveWords(lineData);
+      HandleBigWeightWords(lineData);
     }
   }
   ifile.close();
