@@ -3478,6 +3478,7 @@ encoder:
 庚	yvw	7270000
 诊	ywe	8140000
 府	ywf	133000000
+谕	ywg
 褒	ywk	3610000
 夜	ywt	395000000
 於	ywu	274000000
@@ -6717,35 +6718,123 @@ encoder:
 言	yyyy	287000000
 
 #words
+东西	aisg
+功能	alce
+随机	bdsm
+出来	bmgo
+联调	buym
+预览	cbjt
+马上	cnhh
+原来	drgo
 原因	drld
+服务器	etkk
+云雾	fcft
+直接	fhru
 进行	fjtf
 进度	fjya
 协议	flyy
+都是	ftjg
 零散	fwae
 繁体	fxws
+开始	gavc
+表现	gegm
+正常	ghip
 还原	gidr
+不是	gijg
+不行	gitf
 更改	gjnt
+更新	gjus
+副本	gksg
+现在	gmdh
+两个	gmwh
+一会儿	gwqt
 目前	hhue
+战斗	hkuf
 没有	imde
+没啥	imkw
+没准	imuw
+测试	imya
 当前	ivue
 流程	iytk
+最后	jbrg
+明天	jegd
+明白	jerr
+时间	jfuj
+时候	jfwh
+是不是	jgjg
+显示	jofi
+顺序	kdyc
+嗯嗯	klkl
+哪个	kvwh
+啥呀	kwka
+啥意思	kuln
 固定	ldpg
+默认	lfyw
+加载	lkfa
+回去	lkfc
+回头	lkud
 界面	lwdm
+邮件	mbwr
 删除	mmbw
+异常	naip
+屏蔽	nuau
 迷宫	oppk
 数据	ovrn
+然后	pdrg
+案子	pvbb
+之前	ppue
+解锁	qeqi
+后面	rgdm
+看看	rhrh
 接口	rukk
 模块	safn
+可能	skce
+可以	skny
+检查	swsj
+要求	svfi
 私有	tcde
+选项	tfad
+告诉	tfyr
 重置	tglf
+自已	thnn
+稍等	titf
 复现	tjgm
+备注	tliy
 状态	uddy
+关卡	udhh
 判断	udon
-决定	unpg
+前面	uedm
+装备	uftl
+单子	ujbb
+意思	ujln
 问题	ukjg
+部分	ukwv
+决定	unpg
+奖励	uqdd
+背包	uxqn
+好了	vbbn
+好嘞	vbka
+好的	vbrq
+那个	vfwh
 公开	wcga
+优化	wdwx
+分支	wvfc
 合理	wggj
 你好	wqvb
+结束	xfgk
+结算	xfth
+试试	yaya
+主干	ygfg
+就是	yijg
+应该	yiyy
 房间	ynuj
-说完	yupf
 词语	ynyg
+这个	ypwh
+说完	yupf
+方式	yyaa
+文档	yysi
+
+#name
+靖谕	ugyw
+雅博	ahfg
+宏硕	pddd

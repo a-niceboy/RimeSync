@@ -104,25 +104,10 @@ void HandleACodeHaveWords(string line) {
   string temp = line.substr(index + 1, line.length());
   size_t index2 = temp.find_first_of("\t");
   string key = line.substr(index + 1, index2);
-
-  string temp2 = temp.substr(index2 + 1, line.length());
-  size_t index3 = temp2.find_first_of("\t");
-  string weightStr = "";
-  if (index3 != string::npos)
-    weightStr = temp2.substr(0, index3);
-  else
-    weightStr = temp2;
-
-  int weight = atoi(weightStr.c_str());
   //// МојУ
   if (currentKey != key) {
     if (lastlineList.size() > 0) {
       tagetData.push_back(GetLine());
-      //vector<string> lines = GetLines();
-      //for (size_t i = 0; i < lines.size(); i++)
-      //{
-      //  tagetData.push_back(lines[i]);
-      //}
     }
 
     lastlineList.clear();
@@ -130,6 +115,7 @@ void HandleACodeHaveWords(string line) {
     currentKey = key;
   }
   else {
+    cout << "key: " << key << endl;
     lastlineList.push_back(line);
   }
 }
@@ -181,8 +167,8 @@ int main()
     else {
       //HandleAWord(lineData);
       //HandleAWordHaveFull(lineData);
-      //HandleACodeHaveWords(lineData);
-      HandleBigWeightWords(lineData);
+      HandleACodeHaveWords(lineData);
+      //HandleBigWeightWords(lineData);
     }
   }
   ifile.close();
