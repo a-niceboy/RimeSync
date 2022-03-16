@@ -1,7 +1,7 @@
 # Rime dictionary: wubi86update
 # encoding: utf-8
 # create by wangye
-# desc: 个人更新单字、词使用
+# desc: 个人使用 更新单字、词
 
 name: wubi86update
 version: "0.7"
@@ -853,7 +853,6 @@ encoder:
 孙	biy	82600000
 阳	bjg	102000000
 隅	bjm	8060000
-亟	bkc	10200000
 职	bkw	93200000
 孟	blf	30400000
 阵	blh	53900000
@@ -1719,7 +1718,6 @@ encoder:
 吗	kcg	959000000
 吧	kcn	645000000
 唉	kct	54300000
-嗎	kcy	148000000
 呃	kdb	9760000
 咕	kdg	18000000
 嘎	kdh	12000000
@@ -1793,13 +1791,13 @@ encoder:
 别	klj	301000000
 咖	klk	12400000
 叻	kln	3480000
-嗣	kma	4060000
 喘	kmd	19400000
 吊	kmh	21600000
 勋	kml	5130000
 叽	kmn	3170000
 员	kmu	386000000
 呐	kmw	22900000
+呗	kmy	6520000
 叼	kng	6620000
 叫	knh	445000000
 唰	knm	4490000
@@ -1867,7 +1865,6 @@ encoder:
 轼	laa	3420000
 轻	lca	170000000
 轰	lcc	17700000
-罵	lcu	18100000
 固	ldd	73700000
 囿	lde	3490000
 因	ldi	301000000
@@ -1877,7 +1874,6 @@ encoder:
 胃	lef	30000000
 罢	lfc	16600000
 轩	lfh	48400000
-団	lfi	26800000
 辕	lfk	12300000
 转	lfn	985000000
 黑	lfo	298000000
@@ -1901,12 +1897,12 @@ encoder:
 男	llb	516000000
 田	lll	87400000
 轴	lmg	24000000
-買	lmu	146000000
 轧	lnn	9560000
 思	lnu	179000000
 连	lpk	423000000
 边	lpv	201000000
 蜀	lqj	65200000
+逻	lqp	1150000
 罗	lqu	175000000
 软	lqw	97500000
 鸭	lqy	25400000
@@ -2046,7 +2042,6 @@ encoder:
 司	ngk	74500000
 怦	ngu	5120000
 眉	nhd	118000000
-疋	nhi	3640000
 蛋	nhj	114000000
 收	nht	459000000
 惧	nhw	12600000
@@ -2905,17 +2900,17 @@ encoder:
 遂	uep	20600000
 兰	uff	153000000
 壮	ufg	22800000
-半	ufk	203000000
+斗	ufk	203000000
 闭	uft	57500000
 凌	ufw	49200000
 装	ufy	459000000
+美	ugd	712000000
 靖	uge	25300000
 症	ugh	95100000
 痞	ugi	4170000
 辣	ugk	69900000
 盖	ugl	83600000
 病	ugm	158000000
-羲	ugt	3340000
 羡	ugu	8930000
 姜	ugv	39300000
 疲	uhc	10200000
@@ -2931,7 +2926,6 @@ encoder:
 瘟	ujl	4320000
 意	ujn	159000000
 竟	ujq	93100000
-赣	ujt	17800000
 韶	ujv	3850000
 部	ukb	966000000
 问	ukd	545000000
@@ -3035,7 +3029,6 @@ encoder:
 寻	vfu	97500000
 妍	vga	12600000
 婧	vge	6300000
-嫣	vgh	3700000
 嫩	vgk	28600000
 娅	vgo	6050000
 婕	vgv	8440000
@@ -3553,7 +3546,6 @@ encoder:
 廿	aghg	11100000
 蔫	agho	3690000
 蕙	agjn	11400000
-薑	aglg	3240000
 黃	agmw	64200000
 巧	agnn	102000000
 戈	agnt	29700000
@@ -3561,7 +3553,6 @@ encoder:
 莱	agou	118000000
 葬	agqa	11800000
 苹	aguh	3020000
-蘆	ahal	5990000
 颐	ahkm	18300000
 熙	ahko	14300000
 卧	ahnh	42100000
@@ -4173,7 +4164,6 @@ encoder:
 靛	geph	7380000
 静	geqh	98400000
 瑶	germ	14400000
-琢	geyy	3790000
 球	gfiy	159000000
 玮	gfnh	6150000
 玩	gfqn	372000000
@@ -4224,11 +4214,9 @@ encoder:
 瑞	gmdj	102000000
 再	gmfd	978000000
 珮	gmgh	4570000
-棘	gmii	7550000
 刺	gmij	50300000
 枣	gmiu	11900000
 珊	gmmg	18000000
-恵	gmnu	7640000
 现	gmqn	275000000
 丙	gmwi	47400000
 两	gmww	684000000
@@ -4252,7 +4240,6 @@ encoder:
 殃	gqmd	3220000
 殊	gqri	6890000
 瑤	gqrm	3120000
-獒	gqtd	3690000
 歼	gqtf	4400000
 鳌	gqtg	3950000
 熬	gqto	28200000
@@ -4265,7 +4252,6 @@ encoder:
 瑰	grqc	3730000
 珂	gskg	8840000
 琳	gssy	44100000
-麺	gtdd	18200000
 珞	gtkg	4060000
 平	guhk	170000000
 璋	gujh	3490000
@@ -4278,7 +4264,6 @@ encoder:
 互	gxgd	96000000
 毒	gxgu	93600000
 素	gxiu	134000000
-夷	gxwi	9030000
 璃	gybc	5100000
 琉	gycq	4450000
 斑	gygg	31200000
@@ -4291,7 +4276,6 @@ encoder:
 瞒	hagw	9660000
 虞	hakd	10800000
 瞄	halg	9960000
-虏	halv	3810000
 彪	hame	12600000
 虎	hamv	106000000
 虑	hani	9960000
@@ -4305,8 +4289,6 @@ encoder:
 睹	hftj	11600000
 睦	hfwf	5780000
 睛	hgeg	5560000
-鬥	hggh	12200000
-卍	hghn	3200000
 凸	hgmg	27000000
 上	hhgg	4250000000
 止	hhhg	71700000
@@ -4391,7 +4373,6 @@ encoder:
 瀚	ifjn	6420000
 澎	ifke	3580000
 洁	ifkg	44200000
-濤	ifnf	3740000
 污	ifnn	37300000
 沅	ifqn	3600000
 渚	iftj	11100000
@@ -4414,13 +4395,11 @@ encoder:
 小	ihty	1470000000
 消	iieg	92800000
 水	iiii	752000000
-淼	iiiu	4030000
 淌	iimk	5450000
 鲨	iitg	8560000
 沙	iitt	108000000
 娑	iitv	3830000
 瀑	ijai	5340000
-涅	ijfg	8200000
 漫	ijlc	255000000
 温	ijlg	91100000
 湿	ijog	76300000
@@ -4563,7 +4542,6 @@ encoder:
 済	iyjg	29200000
 济	iyjh	56100000
 澶	iylg	4390000
-滬	iync	5160000
 涙	iynd	41600000
 泳	iyni	17200000
 沪	iynt	143000000
@@ -4591,13 +4569,10 @@ encoder:
 紧	jcxi	125000000
 晨	jdfe	65100000
 蚌	jdhh	3830000
-晟	jdnt	6990000
 暖	jefc	57300000
 盟	jelf	73200000
-暁	jfaq	4240000
 野	jfcb	90800000
 墅	jfcf	15100000
-曇	jffc	3980000
 蛙	jffg	15900000
 黒	jfou	98100000
 暑	jftj	14500000
@@ -4619,7 +4594,6 @@ encoder:
 日	jjjj	2380000000
 蟲	jjju	15700000
 蝎	jjqn	6660000
-蠍	jjqw	3580000
 曼	jlcu	64600000
 曙	jlfj	7410000
 螺	jlxi	14900000
@@ -4628,7 +4602,6 @@ encoder:
 愚	jmhn	18100000
 遇	jmhp	210000000
 暇	jnhc	36500000
-遢	jnpd	3960000
 曜	jnwy	5070000
 昵	jnxn	4230000
 显	jogf	123000000
@@ -4643,7 +4616,6 @@ encoder:
 剔	jqrj	3290000
 易	jqrr	268000000
 昀	jqug	3460000
-遏	jqwp	3410000
 歇	jqww	22100000
 蝗	jrgg	4230000
 颗	jsdm	60500000
@@ -4913,7 +4885,6 @@ encoder:
 蜀	lqju	65200000
 软	lqwy	97500000
 鸭	lqyg	25400000
-暂	lrjf	298000000
 轶	lrwy	7210000
 轿	ltdj	9510000
 略	ltkg	77600000
@@ -5039,7 +5010,6 @@ encoder:
 懒	ngkm	63800000
 怦	nguh	5120000
 収	nhcy	3830000
-卍	nhgh	3200000
 悼	nhjh	3020000
 蛋	nhju	114000000
 收	nhty	459000000
@@ -5664,7 +5634,6 @@ encoder:
 拎	rwyc	16400000
 携	rwye	37500000
 推	rwyg	127000000
-捻	rwyn	3830000
 指	rxjg	226000000
 拂	rxjh	13800000
 擬	rxth	8170000
@@ -5691,7 +5660,6 @@ encoder:
 檬	sape	16200000
 枢	saqy	4340000
 椰	sbbh	8380000
-極	sbkg	36700000
 橘	scbk	41900000
 桶	sceh	45700000
 树	scfy	334000000
@@ -6098,7 +6066,6 @@ encoder:
 童	ujff	55200000
 单	ujfj	394000000
 瘟	ujld	4320000
-竜	ujnb	13300000
 意	ujnu	159000000
 竟	ujqb	93100000
 竭	ujqn	5610000
@@ -6320,7 +6287,6 @@ encoder:
 逾	wgep	37000000
 剑	wgij	121000000
 敛	wgit	3950000
-傳	wgjf	110000000
 便	wgjq	437000000
 命	wgkb	116000000
 合	wgkf	354000000
@@ -6331,7 +6297,6 @@ encoder:
 拿	wgkr	318000000
 登	wgku	424000000
 僵	wglg	7870000
-會	wglj	301000000
 俩	wgmw	67900000
 债	wgmy	19900000
 兮	wgnb	14200000
@@ -6396,7 +6361,6 @@ encoder:
 凭	wtfm	65000000
 作	wthf	379000000
 俐	wtjh	9720000
-傷	wtjr	38100000
 伤	wtln	112000000
 傻	wtlt	57600000
 途	wtpi	28900000
@@ -6440,7 +6404,6 @@ encoder:
 倾	wxdm	24400000
 华	wxfj	681000000
 佛	wxjh	70800000
-發	wxmc	92200000
 货	wxmu	240000000
 偕	wxxr	4140000
 禽	wybc	28500000
@@ -6718,29 +6681,49 @@ encoder:
 言	yyyy	287000000
 
 #words
+节点	abhk
+其实	adpu
 东西	aisg
 功能	alce
+世界	anlw
 随机	bdsm
+出去	bmfc
 出来	bmgo
+隐藏	bqad
 联调	buym
 预览	cbjt
+通过	cefp
+通关	ceud
 马上	cnhh
 原来	drgo
 原因	drld
+貌似	eewn
 服务器	etkk
+截图	falt
+地图	fblt
 云雾	fcft
+支持	fcrf
+越来越	fgfh
 直接	fhru
+进来	fjgo
 进行	fjtf
 进度	fjya
 协议	flyy
 都是	ftjg
 零散	fwae
+截个图	fwlt
 繁体	fxws
 开始	gavc
+到底	gcyq
 表现	gegm
+玩家	gfpe
+一样	ggsu
 正常	ghip
 还原	gidr
-不是	gijg
+不是	gijg	1
+还是	gijg
+不然	giqd
+不急	giqv
 不行	gitf
 更改	gjnt
 更新	gjus
@@ -6748,87 +6731,141 @@ encoder:
 现在	gmdh
 两个	gmwh
 一会儿	gwqt
+上班	hhgy
 目前	hhue
 战斗	hkuf
+清楚	igss
 没有	imde
+没咋	imkt
 没啥	imkw
 没准	imuw
 测试	imya
+没事儿	igqt
 当前	ivue
 流程	iytk
 最后	jbrg
+最好	jbvb
 明天	jegd
 明白	jerr
 时间	jfuj
 时候	jfwh
+是否	jggi
 是不是	jgjg
 显示	jofi
+昨天	jtgd
 顺序	kdyc
+虽然	kjqd
 嗯嗯	klkl
+嗯呢	klkn
+咋了	ktbn
+咋样	ktsu
 哪个	kvwh
 啥呀	kwka
 啥意思	kuln
 固定	ldpg
+软裁切	lfav
+软裁剪	lfue
 默认	lfyw
 加载	lkfa
 回去	lkfc
+回到	lkgc
 回头	lkud
+软裁	lqfa
+暂时	lrjf
 界面	lwdm
 邮件	mbwr
 删除	mmbw
+刚看	mqrh
 异常	naip
+改下	ntgh
 屏蔽	nuau
+类型	odga
 迷宫	oppk
 数据	ovrn
 然后	pdrg
-案子	pvbb
 之前	ppue
+案子	pvbb
+错误	qayk
 解锁	qeqi
+负责	qmgm
+返回	rclk
+排队	rdbw
 后面	rgdm
+后续	rgxf
+看懂	rhna
 看看	rhrh
+所需	rnfd
 接口	rukk
+失败	rwmt
+撤回	rylk
+撤销	ryqi
 模块	safn
 可能	skce
+可是	skjg
 可以	skny
 检查	swsj
 要求	svfi
 私有	tcde
+知道	tdut
 选项	tfad
+选择	tfrc
 告诉	tfyr
+策划	tgaj
 重置	tglf
+重复	tgtj
+重新	tgus
 自已	thnn
 稍等	titf
+得劲	tjca
 复现	tjgm
 备注	tliy
+很对	tvcf
+签字	twpb
 状态	uddy
 关卡	udhh
+关注	udiy
 判断	udon
+着急	udqv
 前面	uedm
 装备	uftl
+差不多	ugqq
+美术	ugsy
 单子	ujbb
 意思	ujln
+单独	ujqt
 问题	ukjg
 部分	ukwv
 决定	unpg
+普通	uoce
 奖励	uqdd
 背包	uxqn
 好了	vbbn
 好嘞	vbka
 好的	vbrq
+退出	vebm
 那个	vfwh
+建议	vfyy
+如果	vkjs
 公开	wcga
 优化	wdwx
-分支	wvfc
+使用	wget
 合理	wggj
+登录	wgvi
+但是	wjjg	7240001
 你好	wqvb
+分支	wvfc
+今天	wygd
 结束	xfgk
 结算	xfth
 试试	yaya
 主干	ygfg
+请求	ygfi
 就是	yijg
+就行	yitf
 应该	yiyy
 房间	ynuj
 词语	ynyg
+这些	yphx
 这个	ypwh
 说完	yupf
 方式	yyaa
