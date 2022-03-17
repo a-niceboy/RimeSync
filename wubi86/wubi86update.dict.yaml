@@ -2,7 +2,8 @@
 # encoding: utf-8
 # create by wangye
 # desc: 个人使用 更新单字、词
-
+# 重码：
+# fcu 去 云 gijg 不是 还是 wjjg 但是 倡 ynwy 记住 雇
 name: wubi86update
 version: "0.7"
 sort: by_weight
@@ -177,7 +178,7 @@ encoder:
 二	fg	124770737
 直	fh	92426721
 示	fi	52044357
-进	fj	178294287
+井	fj	45100000
 吉	fk	13594856
 协	fl	18590946
 南	fm	61632428
@@ -4390,7 +4391,7 @@ encoder:
 婆	ihcv	31400000
 波	ihcy	182000000
 淑	ihic	16400000
-涉	ihit	46200000
+渺	ihit	2630000
 沾	ihkg	22800000
 小	ihty	1470000000
 消	iieg	92800000
@@ -6686,13 +6687,17 @@ encoder:
 东西	aisg
 功能	alce
 世界	anlw
+区分	aqwv
 随机	bdsm
 出去	bmfc
 出来	bmgo
+成为	bnyl
 隐藏	bqad
 联调	buym
 预览	cbjt
+又有	ccde
 通过	cefp
+能够	ceqk
 通关	ceud
 马上	cnhh
 原来	drgo
@@ -6703,15 +6708,22 @@ encoder:
 地图	fblt
 云雾	fcft
 支持	fcrf
+需要	fdsv
 越来越	fgfh
+直到	fhgc
 直接	fhru
 进来	fjgo
 进行	fjtf
+进入	fjty
 进度	fjya
+喜欢	fkcq
 协议	flyy
+场景	fnjy
+无需	fqfd
 都是	ftjg
 零散	fwae
 截个图	fwlt
+规则	fwmj
 繁体	fxws
 开始	gavc
 到底	gcyq
@@ -6719,28 +6731,37 @@ encoder:
 玩家	gfpe
 一样	ggsu
 正常	ghip
+不能	ghce
 还原	gidr
 不是	gijg	1
 还是	gijg
 不然	giqd
 不急	giqv
 不行	gitf
+不让	giyh
 更改	gjnt
 更新	gjus
 副本	gksg
 现在	gmdh
 两个	gmwh
+裂隙	gqbi
+不好意思	gvul
 一会儿	gwqt
 上班	hhgy
 目前	hhue
+点击	hkfm
 战斗	hkuf
+具备	hwtl
+满了	iabn
+没事儿	igqt
 清楚	igss
 没有	imde
+没满	imia
 没咋	imkt
 没啥	imkw
 没准	imuw
 测试	imya
-没事儿	igqt
+沟通	iqce
 当前	ivue
 流程	iytk
 最后	jbrg
@@ -6755,14 +6776,18 @@ encoder:
 昨天	jtgd
 顺序	kdyc
 虽然	kjqd
+品质	kkrf
 嗯嗯	klkl
 嗯呢	klkn
+别人	klww
 咋了	ktbn
 咋样	ktsu
 哪个	kvwh
 啥呀	kwka
+只要	kwsv
 啥意思	kuln
 固定	ldpg
+因为	ldyl
 软裁切	lfav
 软裁剪	lfue
 默认	lfyw
@@ -6770,83 +6795,111 @@ encoder:
 回去	lkfc
 回到	lkgc
 回头	lkud
+回归	lkjv
+思维	lnxw
 软裁	lqfa
+逻辑	lqlk
 暂时	lrjf
+图标	ltsf
 界面	lwdm
 邮件	mbwr
 删除	mmbw
 刚看	mqrh
 异常	naip
+情操	ngrk
+必须	nted
+刷新	nmus
 改下	ntgh
 屏蔽	nuau
+习惯	nunx
 类型	odga
+粗鲁	oeqg
+精英	ogam
 迷宫	oppk
 数据	ovrn
 然后	pdrg
 之前	ppue
+礼包	pyqn
 案子	pvbb
+客户端	pyum
 错误	qayk
 解锁	qeqi
 负责	qmgm
 返回	rclk
 排队	rdbw
 后面	rgdm
+后置	rglf
 后续	rgxf
+提交	rjuq
 看懂	rhna
 看看	rhrh
 所需	rnfd
+按钮	rpqn
+控制	rprm
 接口	rukk
 失败	rwmt
 撤回	rylk
 撤销	ryqi
 模块	safn
+本能	sgce
 可能	skce
 可是	skjg
 可以	skny
-检查	swsj
 要求	svfi
+根据	svrn
+检查	swsj
 私有	tcde
 知道	tdut
+知识	tdyk
 选项	tfad
 选择	tfrc
 告诉	tfyr
 策划	tgaj
+生活	tgit
 重置	tglf
 重复	tgtj
 重新	tgus
-自已	thnn
+自动	thfc
+自己	thnn
 稍等	titf
 得劲	tjca
 复现	tjgm
 备注	tliy
+我想	trsh
 很对	tvcf
 签字	twpb
+系统	txxy
 状态	uddy
 关卡	udhh
 关注	udiy
 判断	udon
 着急	udqv
 前面	uedm
+前置	uelf
 装备	uftl
 差不多	ugqq
 美术	ugsy
 单子	ujbb
 意思	ujln
 单独	ujqt
+问下	ukgh
 问题	ukjg
 部分	ukwv
 决定	unpg
 普通	uoce
 奖励	uqdd
+准备	uwtl
 背包	uxqn
 好了	vbbn
 好嘞	vbka
 好的	vbrq
 退出	vebm
+那里	vfjf
 那个	vfwh
 建议	vfyy
 如果	vkjs
 公开	wcga
+优先	wctf
 优化	wdwx
 使用	wget
 合理	wggj
@@ -6855,19 +6908,24 @@ encoder:
 你好	wqvb
 分支	wvfc
 今天	wygd
+领取	wybc
+领奖	wyuq
 结束	xfgk
 结算	xfth
 试试	yaya
+充满	ycia
 主干	ygfg
 请求	ygfi
 就是	yijg
 就行	yitf
 应该	yiyy
+永远	ynfq
 房间	ynuj
 词语	ynyg
 这些	yphx
 这个	ypwh
 说完	yupf
+认识	ywyk
 方式	yyaa
 文档	yysi
 
@@ -6875,3 +6933,4 @@ encoder:
 靖谕	ugyw
 雅博	ahfg
 宏硕	pddd
+兆雄	qidc
